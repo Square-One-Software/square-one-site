@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Square One Lab'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
