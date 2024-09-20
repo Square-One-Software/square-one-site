@@ -2,7 +2,7 @@
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: https://example.org/
 title: Square One Sofware
-copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+copyright: "© [Square One Software](https://github.com/Square-One-Software)"
 paginate: 5
 theme: [hugo-PaperMod]
 
