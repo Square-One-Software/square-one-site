@@ -1,6 +1,0 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Square One Lab'
-theme = ["github.com/rhazdon/hugo-theme-hello-friend-ng"]
-
- homeSubtitle = "Make Ed Teach Cool"
