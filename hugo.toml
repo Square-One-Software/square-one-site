@@ -1,4 +1,0 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Square One Software'
-theme = 'hugo-PaperMod'
